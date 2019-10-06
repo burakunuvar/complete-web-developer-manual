@@ -49,6 +49,8 @@ Reference websites:
 *	https://unsplash.com/
 * https://developer.mozilla.org/es/docs/Learn/CSS/Introduction_to_CSS/Cascada_y_herencia
 *	https://specificity.keegan.st/
+*	Flexbox Cheartsheet : https://darekkay.com/dev/flexbox-cheatsheet.html
+*	CSS Transitions and Transforms : https://thoughtbot.com/blog/transitions-and-transforms
 
 Website for color check:
 *	http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
